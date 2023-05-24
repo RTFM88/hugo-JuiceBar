@@ -1,8 +1,8 @@
 name = "JuiceBar"
 license = "MIT"
-licenselink = "https://github.com/hotjuicew/hugo-JuiceBar/blob/master/LICENSE"
+licenselink = "https://github.com/rtfm88/hugo-JuiceBar/blob/master/LICENSE"
 description = ""
-homepage = "https://github.com/hotjuicew/hugo-JuiceBar"
+homepage = "https://github.com/rtfm88/hugo-JuiceBar"
 tags =  ["blog", "fast",  "responsive", "simple", "beautiful",  "pages"]
 features = ["fast",  "responsive", "archive", "tags"]
 min_version = "0.75.0"
